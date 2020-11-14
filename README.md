@@ -1,6 +1,7 @@
 # login_ui
 
 A new Flutter project.
+![alt text](https://github.com/MrtDev7/flutter-login-and-splash-screen-UI/blob/main/previews.png)
 
 ## Getting Started
 
